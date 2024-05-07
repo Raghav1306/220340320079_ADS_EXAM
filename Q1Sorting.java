@@ -1,5 +1,5 @@
 import java.util.*;
-class Q1Sorting{
+class Q1Sorting1{
 	
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
